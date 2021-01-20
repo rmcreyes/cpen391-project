@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:rmcreyes/cpen391-backend.git
+[submodule "user_app"]
+	path = user_app
+	url = git@github.com:rmcreyes/cpen391-user-app.git
